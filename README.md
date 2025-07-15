@@ -120,7 +120,7 @@ VITE_UPTIMEROBOT_API_KEY = "ur2290572-af4663a4e3f83be26119abbe"
 VITE_UPTIMEROBOT_API_URL = "/api/status"
 
 # 站点名称
-VITE_APP_TITLE = "梦爱吃鱼"
+VITE_APP_TITLE = "Frederick's Status"
 ```
 
 4. 开发调试

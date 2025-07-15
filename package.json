@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "author": "Frederick Chen",
+  "url": "https://www.ohdragonboi.cn",
+  "email": "hey@ohdragonboi.cn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/fenychn0206"
   },
   "type": "module",
   "scripts": {
